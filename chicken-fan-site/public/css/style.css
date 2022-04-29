@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to right,#FA2FBD, #00ffff, #FA2FBD, #2deb12, #ffa600, #4A412A, #4A412A);
+    text-align: center;
+}
+
+#recipe1{
+    width: 400px; height: auto;
+}
+
+#add{
+    width: 400px;
+}
+
+#add2{
+    width: 400px;
+}
+
+.form-group{
+    margin-left: auto;
+    margin-right: auto;
+}

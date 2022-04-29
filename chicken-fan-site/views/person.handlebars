@@ -1,0 +1,12 @@
+<h2>{{person.name}}</h2> 
+
+<img src="{{person.imageurl}}" alt='photo of the person'>
+
+<img src="{{person.imageur2}}" alt='photo of the person'>
+<ul></ul>
+<a href='{{person.name}}/edit'>
+<button type="button" class="btn btn-primary">Edit</button></a>
+
+<a href='/recipes/{{person.name}}/delete'
+ onclick="return confirm('are you sure you want to delete this person?');">
+<button type="button" class="btn btn-danger">Delete</button> </a>

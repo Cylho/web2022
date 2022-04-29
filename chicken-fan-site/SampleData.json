@@ -1,0 +1,15 @@
+{"Crispy" : { "name": "Crispy garlicky chicken",
+        "dob": "01/01/1998",
+       "imageurl": "/images/Crispy_garlicky_chicken.png",
+       "imageur2": "/images/recette1.png",
+       "hobbies": ["Jokes", "Gags", "Stand up"]},
+
+"Thai" :  { "name": "Thai green chicken curry",
+           "dob": "22/01/2000",
+           "imageurl": "/images/Thai_green_chicken_curry.png",
+           "imageur2": "/images/recette2.png"},
+
+"Perfect" : { "name": "Perfect roast chicken",
+           "dob": "09/11/2021",
+           "imageurl": "/images/Perfect_roast_chicken.png",
+           "imageur2": "/images/recette3.png"}}

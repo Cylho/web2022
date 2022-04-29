@@ -1,0 +1,16 @@
+<ul>
+  <p style="font-size:30px">recipes</p>
+  <p></p>
+  {{#each recipes}}
+    <header>
+      <p></p>
+      <a href = "recipes/{{this.name}}">
+        <li>{{this.name}}</li>
+      </a>
+    </header>
+  {{/each}}
+</ul>
+
+<br></br>
+<br></br>
+<a href="http://localhost:3000/recipes/addnew">Add a Recipe</a>
